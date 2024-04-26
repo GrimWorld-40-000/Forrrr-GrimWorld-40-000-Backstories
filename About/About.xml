@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ModMetaData>
+  <name>Forrrr's Grimworld 40,000 Backstories and Scenarios</name>
+  <author>forrrr</author>
+<packageId>forrrr.40kBackstoriesandScenarios</packageId> 
+  <supportedVersions> 
+	<li>1.5</li>
+  </supportedVersions>
+  <description>This mod adds backstories and scenarios for players using all aspects of Clashfore's Grimworld Mod.</description>
+ </ModMetaData>
